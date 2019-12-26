@@ -4,6 +4,4 @@
 
 > 2019-12-25完成底部菜单完成
 
-目前app下载地址 
-
-[网址](studyit.club/app-release.apk)
+目前app下载地址 [网址](https://studyit.club/app-release.apk)
