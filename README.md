@@ -5,3 +5,6 @@
 > 2019-12-25完成底部菜单 效果图
 
 <img src="https://cdn.jsdelivr.net/gh/2662419405/imgPlus/Snipaste_2019-12-25_22-42-23.png">
+
+目前app下载地址
+<a href="http://studyit.club/app-release.apk" />
