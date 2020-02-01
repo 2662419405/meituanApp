@@ -33,7 +33,7 @@ class App extends React.Component{
             onPress={() => this.setState({ selectedTab: 'home' })}>
             <View style={styles.page1}>
               <Text>
-                12332
+                12332231
               </Text>
             </View>
           </TabNavigator.Item>
